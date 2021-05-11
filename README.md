@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Messias Martins 🇧🇷
+
+I'm A Bachelor in Information Systems and System Analyst since 2019.
+
+
 <!--
 **MessiasMartins/MessiasMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
