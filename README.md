@@ -12,7 +12,7 @@ I'm currently working at PD Case Informatica, in projects for Polícia Militar d
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/messiasmartins/)](https://www.linkedin.com/in/https://www.linkedin.com/in/messiasmartins/)
+[![Linkedin Badge](https://img.shields.io/badge/-MessiasMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/messiasmartins/)](https://www.linkedin.com/in/messiasmartins/)
 
 
 <!--
