@@ -2,7 +2,7 @@
 
 My name is Messias Martins 🇧🇷
 
-I'm A Bachelor in Information Systems and System Analyst since 2019.
+I'm A Bachelor in Information Systems and System Analyst since 2017.
 
 I'm currently working at Metropax S/A. 
 
